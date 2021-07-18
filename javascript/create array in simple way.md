@@ -1,3 +1,5 @@
+[back](https://github.com/malikkurosaki/tips-and-trick-programing)
+
 # create multiple array in simple way
 
 ```js
