@@ -1,2 +1,6 @@
 # tips-and-trick-programing
-pencatatan beberapa tips dan tricks yang mungkin jarang ditemu
+listing some tips and tricks that may be rare to find
+
+
+### javascript
+- creta imple multiple array
