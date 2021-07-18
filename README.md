@@ -3,4 +3,4 @@ listing some tips and tricks that may be rare to find
 
 
 ### javascript
-- creta imple multiple array
+- [create multiple array on simple way](https://github.com/malikkurosaki/tips-and-trick-programing/blob/main/javascript/create%20array%20in%20simple%20way.md)
